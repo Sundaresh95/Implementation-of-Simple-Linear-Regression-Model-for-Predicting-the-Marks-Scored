@@ -14,12 +14,13 @@ To write a program to predict the marks scored by a student using the simple lin
 4.Predict the results for the testing set and plot the training and testing sets with fitted lines.
 
 ## Program:
-
+```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: K.Sundaresh
 RegisterNumber:  212225220111
 */
+```
 ```
 import numpy as np
 import pandas as pd
